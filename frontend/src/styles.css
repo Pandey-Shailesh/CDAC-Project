@@ -1,0 +1,179 @@
+.btn,
+.jumbotron,
+.nav {
+  border-radius: 0px;
+  font-size: 16px;
+  font-family: Inter, sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+.nav :hover {
+  border-radius: 0px;
+  background: #7952b3;
+  color: #ffffff !important;
+  font-size: 16px;
+  font-family: Inter, sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+.logo-img {
+  font-size: 50px;
+  font-weight: 900;
+  background-image: url(https://99percentinvisible.org/app/uploads/2019/02/abstract-background-colors.jpg);
+  background-size: cover;
+  /* background-position: center; */
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.heading-line {
+  font-size: 50px;
+  font-weight: 900;
+  background-image: url(https://99percentinvisible.org/app/uploads/2019/02/abstract-background-colors.jpg);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.guarantee {
+  color: #000000;
+}
+.guarantee :hover {
+  color: #7952b3;
+}
+.instructors {
+  border-radius: 20px 20px 0px 0px;
+  background-color: #7952b3;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: Inter, sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+.cards-item img {
+  width: 60px;
+}
+
+.testimonials-cards-item {
+  background-color: #7952b3;
+  color: #ffffff;
+}
+.cards {
+  padding-left: 60px;
+}
+.cards :hover {
+  background-color: #7952b3;
+  color: #ffffff;
+}
+body {
+  background: whitesmoke;
+}
+.about {
+  height: 600px;
+  width: 750px;
+}
+.footer {
+  height: 300px;
+  border-radius: 10px;
+  background-color: #7952b3;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: Inter, sans-serif;
+  font-weight: 500;
+}
+.footer ul li {
+  text-decoration: none;
+}
+.heading-line2 {
+  font-size: 50px;
+  font-weight: 900;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTbTx5DVnGlZ0NFXsE8Fx9vFjrtyRUeSB4KZcJRFqFm169_-JQiVrEXG6n4PwiTm8jKc&usqp=CAU);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+.courseimages {
+  margin-left: 15px;
+  padding: 4px;
+  min-width: 30px;
+  height: 150px;
+}
+.courseimages :hover {
+  margin-left: 15px;
+  padding: 4px;
+  min-width: 30px;
+  height: 150px;
+}
+.category-cards-item {
+  border-radius: 20px;
+  background-color: #ffffff;
+  color: #000000 !important;
+}
+.category-cards :hover {
+  background: #7952b3;
+  color: #ffffff !important;
+  /* font-size: 16px; */
+  font-family: Inter, sans-serif;
+  border-radius: 20px;
+  .categorybtn {
+    background-color: whitesmoke;
+    color: #000000 !important;
+  }
+}
+.categorybtn {
+  border-radius: 20px;
+  background: #7952b3;
+  color: #ffffff !important;
+  font-size: 16px;
+  font-family: Inter, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  border-color: #7952b3;
+}
+.trusted-by {
+  align-items: center;
+  text-align: center;
+  justify-self: center;
+}
+.signup-banner {
+  height: 500px;
+  width: 600px;
+}
+.signin-banner {
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  width: 600px;
+}
+.signin-image {
+  align-items: center;
+  justify-content: center;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+
+.admin-button {
+  text-decoration: none;
+  border-radius: 80px;
+  border-color: #7952b3;
+  background-color: #7952b3;
+  color: #ffffff;
+  font-size: 40px;
+  font-family: Inter, sans-serif;
+}
+
+.admin-img-top {
+  max-height: 300px;
+  max-width: 350px;
+  margin-left: 65px;
+  border-radius: 150px;
+}
+.bars {
+max-height: 245px;}
